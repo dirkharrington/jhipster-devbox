@@ -18,8 +18,7 @@ It is fully based on Open Source software, and most importantly on:
 - Ubuntu
 - OpenJDK (Oracle JDK can't be used because of license issues)
 - Node, NPM and Yarn
-- Docker and Docker Compose (see the [JHipster Docker Compose documentation](https://www.jhipster.tech/docker-compose/) to learn how to run your application, database or even a full micro-service architecture with Docker)
-- [Ubuntu Make](https://wiki.ubuntu.com/ubuntu-make) so you can easily install your favorite IDE (type `umake ide idea` for Intellij IDEA or `umake ide eclipse` for Eclipse)
+- Docker and Docker Compose
 
 This "development box" also have all client applications useful for modern day development:
 
